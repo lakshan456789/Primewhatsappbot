@@ -1,12 +1,12 @@
 {
-  "name": "Queen_Anju",
+  "name": "PRIME-LAKSHAN",
   "version": "4",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "description": "PRIMR KING LAKSHAN WHATSAPP BOT CREATED BY VISHATH KAUSHIKA",
   "main": "queen.js",
   "scripts": {
     "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "stop": "pm2 stop Queen_LAKSHAN",
+    "restart": "pm2 restart Queen_LAKSHAN"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
